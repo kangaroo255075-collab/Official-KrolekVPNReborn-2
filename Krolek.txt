@@ -10,4 +10,4 @@
 
 vless://622ecb27-f3c0-1f40-b463-7ce28eed844f@0.00.00.0:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%E2%80%94%E2%80%94+%D0%9A%D1%80%D0%BE%D0%BB%D1%8D%D0%BA%21+%D0%A1%D0%BF%D0%B0%D1%81%D0%B8+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+%F0%9F%8C%90%E2%80%94%E2%80%94
 
-vless://1ff3e4c8-2be2-41b7-b681-23ad81f61ef4@fin2.pink-perfect.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=fin2.pink-perfect.ru&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539#%5BKrolekvpnreborn%5D+Finland+%F0%9F%87%AB%F0%9F%87%AE+%7C+VPN
+vless://910a6034-5e74-11f1-bd95-ee5f4ed81fa1@nl.gruztrack.online:2053?type=grpc&security=reality&fp=chrome&sni=nl.gruztrack.online&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&sid=e35c7f14cc807f4d&serviceName=grpc-direct&mode=gun#%5BKrolekVPNReborn%5D+Finland+%F0%9F%87%AB%F0%9F%87%AE+%7C+VPN
