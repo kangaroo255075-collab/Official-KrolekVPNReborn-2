@@ -10,4 +10,5 @@
 
 vless://622ecb27-f3c0-1f40-b463-7ce28eed844f@0.00.00.0:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%E2%80%94%E2%80%94+%D0%9A%D1%80%D0%BE%D0%BB%D1%8D%D0%BA%21+%D0%A1%D0%BF%D0%B0%D1%81%D0%B8+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82+%F0%9F%8C%90%E2%80%94%E2%80%94
 
-vless://18f2f9bc-c55b-40c4-a762-0394b2e11fcf@31.56.188.159:8444?type=grpc&security=reality&pbk=4WTHZy2TZckUbm47A0g4lq67hVEMeVjqsUk82kFDASA&fp=chrome&sni=pinterest.com&sid=4ef7cdbc&serviceName=%2Fgaragerp#[KrolekVPNReborn]%20Poland%20🇵🇱%20|%20VPN
+
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@0.0.00.00:443?encryption=none&security=tls&sni=vod.ensf.top&alpn=http%2F1.1&type=ws&host=vod.ensf.top&path=%2Fapi%2Fv1%2Firc#%D0%92%D1%8B%20%D0%B4%D0%BE%20%D1%81%D0%B8%D1%85%20%D0%BF%D0%BE%D1%80%20%D1%85%D0%BE%D1%82%D0%B8%D1%82%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D1%81%D0%BF%D0%B8%D0%B7%D0%B4%D0%B5%D1%82%D1%8C%3F
