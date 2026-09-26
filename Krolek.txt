@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/Kr0l3k
 #profile-web-page-url: https://t.me/KrolekVPNReborn 
-#announce: KrolekVPNReborn — чистый VPN без скрытых условий🐇 👑Обход глушилок только в VIP за 250₽🟡
+#announce: KrolekVPNReborn — чистый VPN без скрытых условий🐇 👑Обход глушилок только в VIP за 70₽ в месяц🟡
 #subscription-userinfo: upload=0; download=0; total=53687091200; expire=2383718400
 #type: LTE
 #type: VPN
