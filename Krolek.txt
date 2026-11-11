@@ -1,8 +1,8 @@
-#profile-title: 🐇KrolekVPNReborn🐰
+#profile-title: 🐇𝗞𝗿𝗼𝗹𝗲𝗸𝗩𝗣𝗡𝗥𝗲𝗯𝗼𝗿𝗻🐰
 #profile-update-interval: 1
 #support-url: https://t.me/Kr0l3k
 #profile-web-page-url: https://t.me/KrolekVPNReborn 
-#announce:🐇Бᴇᴄᴨᴧᴀᴛный VPN ᴏᴛ Кᴩᴏᴧ϶ᴋᴀ! Нᴏʙᴏᴦᴏдний ʙᴀйб❄️
+#announce:🐇𝗞𝗿𝗼𝗹𝗲𝗸𝗩𝗣𝗡𝗥𝗲𝗯𝗼𝗿𝗻 — чиᴄᴛый ᴠᴘɴ бᴇᴣ ᴄᴋᴩыᴛых ʏᴄᴧᴏʙий ❄️
 #subscription-userinfo: upload=0; download=0; total=0; expire=2383718400
 #type: LTE
 #type: VPN
