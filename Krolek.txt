@@ -7,6 +7,4 @@
 #type: LTE
 #type: VPN
 
-hysteria2://cc84e386-b814-4cc8-bef1-a0732da9a6b3@201.4.100.25:5443?security=tls&fm=%7B%7D&sni=betmenvpn.store#%5BKrolekVPNReborn%5D%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%F0%9F%8E%AE
-vless://cc84e386-b814-4cc8-bef1-a0732da9a6b3@201.4.100.25:2443?encryption=none&security=reality&sni=betmenvpn.store&fp=firefox&pbk=vxkiOpePWUIAZI_QREbGkF1hlZdRF_1ObtbOwmWyVFU&sid=75b94b67fb061985&type=xhttp&mode=auto&path=%2Fb-8328611cb84a7c9aa995#%5BKrolekVPNReborn%5D%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%E2%9A%A1
-vless://cc84e386-b814-4cc8-bef1-a0732da9a6b3@201.4.100.9:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=betmenvpn.store&fp=firefox&pbk=D2vgGR7KojsxONEWfX5P-zLnM_wNuYx0eeI5s3wjcHA&sid=29ec2393169cc890&type=tcp&headerType=none#%5BKrolekVPNReborn%5D%20Germany%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20Wi-Fi%20%F0%9F%9B%9C
+vless://5a9af404-4b34-4f21-a6b3-5cf506579722@food-from-finlda-here-we-go.keno.su:443?type=tcp&security=reality&sni=food-from-finlda-here-we-go.keno.su&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&sid=12345678&flow=xtls-rprx-vision&encryption=none#%5BKrolekVPNReborn%5D%20Finland%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%F0%9F%8E%AE
